@@ -1,1 +1,1 @@
-var simplemde = new SimpleMDE({ element: document.getElementById("MyID") });
+let simplemde = new SimpleMDE({ element: document.getElementById("editor") });
